@@ -42,7 +42,9 @@ education:
   date: Sep. 2025 - present
 - name: Shenzhen University
   logo: /assets/images/etc/szu_logo.jpg
-  position: B.S. & M.S. in Civil Engineering
+  position: >-
+    M.S. in Civil Engineering <br/>
+    B.S. in Civil Engineering
   date: Sep. 2018 - Jul. 2025
 
 # experience:
