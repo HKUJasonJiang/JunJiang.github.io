@@ -1,6 +1,6 @@
 ---
 title:          "Game engine-empowered digital twin for seismic damage simulation of buildings"
-date:           2024-05-12 00:01:00 +0800
+date:           2025-06-08 00:01:00 +0800
 selected:       true
 pub:            "Engineering Structure"
 pub_date:       "2025"
