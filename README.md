@@ -1,4 +1,8 @@
 # academic-homepage
+```cmd
+bundle update
+bundle exec jekyll serve
+```
 
 ![Preview](assets/images/etc/preview.png)
 
