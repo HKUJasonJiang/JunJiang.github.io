@@ -35,13 +35,13 @@ portrait_caption: >-
 
 education:
 - name: The University of Hong Kong
-  logo: /assets/images/badges/HKU_logo.png
+  logo: /assets/images/badges/HKU_Logo.png
   position: >- 
     Department of Civil Engineering <br/>
     Ph.D. Student
   date: Sep. 2025 - present
 - name: Shenzhen University
-  logo: /assets/images/badges/SZU_logo.png
+  logo: /assets/images/badges/SZU_Logo.png
   position: B.S. & M.S. in Civil Engineering
   date: Sep. 2018 - Jul. 2025
 
