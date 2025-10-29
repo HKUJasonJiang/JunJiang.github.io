@@ -34,12 +34,12 @@ portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: The University of Hong Kong
+- name: The University of Hong Kong (HKU)
   logo: /assets/images/etc/hku_logo.jpg
   position: >- 
     Ph.D. in Civil Engineering
   date: Sep. 2025 - present
-- name: Shenzhen University
+- name: Shenzhen University (SZU)
   logo: /assets/images/etc/szu_logo.jpg
   position: >-
     M.S. in Civil Engineering <br/>
@@ -49,10 +49,14 @@ education:
     Sep. 2018 - Jul. 2022
     
 experience:
- - name: MTSense Entrepreneurial Project
+ - name: MTSense (摩天智感) Entrepreneurial Project
    logo: null
-   position: Leader
+   position: Project leader: provide Structural Health Monitoring services for high-rise buildings. Received ￥80,000 funding from the startup park of SZU.
    date: Sep. 2021 - Jul. 2025
+ - name: Academic Association of College of Civil and Transportation Engineering (CCTE) of SZU
+   logo: null
+   position: Co-founder, first president: provide competition support for teachers and students.
+   date: Sep. 2021 - Jul. 2023
 
 awards:
 - name: 9th "Internet+" National College Student Innovation and Entrepreneurship Competition (互联网+) - Silver Award
