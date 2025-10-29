@@ -48,11 +48,11 @@ education:
     Sep. 2022 - Jul. 2025 <br/>
     Sep. 2018 - Jul. 2022
     
-# experience:
-# - name: Peking University
-#   logo: /assets/images/etc/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
+experience:
+ - name: MTSense Entrepreneurial Project
+  # logo: /assets/images/etc/PKU_red.png
+   position: Leader
+   date: Sep. 2021 - Jul. 2025
 
 awards:
 - name: 9th "Internet+" National College Student Innovation and Entrepreneurship Competition (互联网+) - Silver Award
