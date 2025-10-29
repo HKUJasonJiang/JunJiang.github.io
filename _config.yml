@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-url: "https://JunJiang.github.io"  # 你的网站地址
-baseurl: "/JunJiang.github.io"  # 如果部署在根目录，这里应该是空字符串
-# baseurl: "/JunJiang.github.io" # the subpath of your site, e.g. /blog
+# url: "https://JunJiang.github.io"  # 你的网站地址
+# baseurl: "/JunJiang.github.io"  # 如果部署在根目录，这里应该是空字符串
+baseurl: "/JunJiang.github.io" # the subpath of your site, e.g. /blog
 
 # Build settings
 markdown: kramdown
