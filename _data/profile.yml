@@ -4,8 +4,8 @@ navbar_name: "Jun Jiang"
 
 positions:
 - name: PhD
-- name: Affiliation Name
-  logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+- name: The University of Hong Kong
+  logo: /assets/images/etc/HKU_Logo.png  # Logo is optional
 
 
 email: "jasonjiang@connect.hku.hk"
@@ -13,7 +13,7 @@ email: "jasonjiang@connect.hku.hk"
 gscholar: LXgk4RMAAAAJ&hl  # This is an example, replace it with your own Google Scholar ID
 github: HKUJasonJiang
 # twitter: your_twitter_id  # Do not include the '@' symbol
-wechat_qrcode: /assets/images/etc/wechatqr.jpg
+wechat_qrcode: /assets/images/etc/wechatqr.png
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
 # linkedin: your-linked-in-id
@@ -29,7 +29,7 @@ short_bio: >-
     
   </p>
 
-portrait_url: /assets/images/photos/portrait.jpg
+portrait_url: /assets/images/photos/portrait.png
 portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
