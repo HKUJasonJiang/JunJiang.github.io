@@ -5,7 +5,7 @@ navbar_name: "Jun Jiang"
 positions:
 - name: PhD
 - name: The University of Hong Kong
-  logo: /assets/images/etc/HKU_Logo.jpg  # Logo is optional
+  logo: /assets/images/etc/hkulogo.jpg  # Logo is optional
 
 
 email: "jasonjiang@connect.hku.hk"
@@ -29,19 +29,19 @@ short_bio: >-
     
   </p>
 
-portrait_url: /assets/images/photos/protrait.jpg
+portrait_url: /assets/images/photos/protrait.png
 portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
 - name: The University of Hong Kong
-  logo: /assets/images/badges/HKU_Logo.jpg
+  logo: /assets/images/badges/hkulogo.jpg
   position: >- 
     Department of Civil Engineering <br/>
     Ph.D. Student
   date: Sep. 2025 - present
 - name: Shenzhen University
-  logo: /assets/images/badges/SZU_Logo.jpg
+  logo: /assets/images/badges/szulogo.jpg
   position: B.S. & M.S. in Civil Engineering
   date: Sep. 2018 - Jul. 2025
 
