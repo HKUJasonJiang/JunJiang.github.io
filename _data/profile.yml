@@ -29,25 +29,25 @@ short_bio: >-
     
   </p>
 
-portrait_url: /assets/images/photos/protrait.png
+portrait_url: /assets/images/etc/protrait.png
 portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
 - name: The University of Hong Kong
-  logo: /assets/images/badges/hku_logo.jpg
+  logo: /assets/images/etc/hku_logo.jpg
   position: >- 
     Department of Civil Engineering <br/>
     Ph.D. Student
   date: Sep. 2025 - present
 - name: Shenzhen University
-  logo: /assets/images/badges/szu_logo.jpg
+  logo: /assets/images/etc/szu_logo.jpg
   position: B.S. & M.S. in Civil Engineering
   date: Sep. 2018 - Jul. 2025
 
 # experience:
 # - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
+#   logo: /assets/images/etc/PKU_red.png
 #   position: Research Intern
 #   date: Sep. 2019 - Jul. 2021
 
