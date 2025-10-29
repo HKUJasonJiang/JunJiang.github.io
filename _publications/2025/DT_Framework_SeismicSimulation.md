@@ -1,1 +1,20 @@
+---
+title:          "Game engine-empowered digital twin for seismic damage simulation of buildings"
+date:           2025-03
+selected:       true
+pub:            "Engineering Structure"
+pub_date:       "2025"
+abstract: >-
+  Proposed a digital twin framework based on Unreal Engine, which can fusion multi-source heterogeneous data and algorithm for analysis, performing seismic simulation of buildings.
+cover:          /assets/images/covers/cover1.jpg
+authors:
+- Jun Jiang
+- Chen Xiong
+- Zhen Xu
+- Liu Mei
+- Lixiao Li
+- Wujian Long
+links:
+  Paper: https://doi.org/10.1016/j.engstruct.2025.119839
+---
 
